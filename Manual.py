@@ -4,7 +4,7 @@ Author: 游承曦
 """
 from vpython import *
 
-#parameter
+#parameters
 re, end = False, False
 
 #initialize
