@@ -23,6 +23,7 @@ stack = [[], [], []]
 #total number of rings
 n = 5
 
+#create rings
 for i in range(0, n):
 	new_ring = ring(pos = vec(pos_x[0], 1 + 1.5*i, 0),
 					axis = vec(0, 10, 0),
